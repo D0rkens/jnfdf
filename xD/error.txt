@@ -1,0 +1,5 @@
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w osu.Graphics.Skinning.SkinOsu.#=q6OKosBo_w55AiRU63iADUQ==()
+   w osu.Graphics.Skinning.Skin.#=q5rgLQ1mwOqYZjukX$f5KQA==(String #=qaRerH0R5BrDZwQ_c$ZVwkA==)
+   w #=q2ZH757tWEtdXvdT6k6wsVfptcdbqhh1u$i6y7s2m_mVgTJ7L$bhd5vn3v6N_UZDx.#=qt6YKApc4I$QnHlDybkg7lA==(String #=qBQASkWhg$D9bKY$2CRpIfg==)
